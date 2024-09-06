@@ -25,4 +25,4 @@ DAY1~DAY5 까지는 자바스크립트의 기초 개념들을 배웁니다.
 
 화이팅입니다!!
 
-> [과제 보러가기](https://github.com/hbin12212/one-bite2/tree/main/day03/misson)
+> [과제 보러가기](https://github.com/hbin12212/one-bite2/tree/main/day03/mission)
