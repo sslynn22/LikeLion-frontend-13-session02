@@ -15,9 +15,6 @@
 >    break;
 > ```
 
-그리고 `console.log`를 사용해서 `num1` 변수와 `num2` 변수를 더한 값을 출력해주세요.
-(두 변수를 더할 때에는 + 기호를 사용해주세요)
-
 > [정답 보기](https://github.com/hbin12212/one-bite2/tree/main/day02/mission/answer/mission1/index.js)
 
 ### 미션2. 함수 작성하기
