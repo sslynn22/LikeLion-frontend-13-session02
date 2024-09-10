@@ -19,4 +19,4 @@ DAY7 미션 안내드립니다 😀
 
 오늘의 미션은 총 2개입니다!!
 
-> [과제 보러가기](https://github.com/hbin12212/one-bite2/tree/main/day04/mission)
+> [과제 보러가기](https://github.com/hbin12212/one-bite2/tree/main/day07/mission)
