@@ -1,4 +1,4 @@
-const API_URL = 'https://pokemon-project-api-hbin12212.vercel.app/main';
+const API_URL = 'https://pokemon-api-ecru-eta.vercel.app/main';
 
 const getPokemonData = async () => {
     try {
