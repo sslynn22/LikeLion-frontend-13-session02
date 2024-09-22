@@ -1,4 +1,5 @@
 //COMPONENTS
+import Header from './components/Header.js';
 import PokemonList from './components/PokemonList.js';
 
 //APIS
