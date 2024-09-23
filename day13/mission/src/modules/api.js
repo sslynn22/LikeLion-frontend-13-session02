@@ -10,14 +10,14 @@ export const getPokemonList = async (type, searchWord) => {
         url += `?search=${searchWord}`;
     }
     const res = await fetch(url);
-    const data = await res.json();
-    return data.data;
+    const pokemonList = await res.json();
+    return pokemonList.data;
 };
 
 // 포켓몬 상세 데이터
 export const getPokemonDetail = async (id) => {
     const url = API_URL + 'detail/' + id;
     const res = await fetch(url);
-    const data = await res.json();
-    return data.data;
+    const pokemonDetails = await res.json();
+    return pokemonDetails.data;
 };
