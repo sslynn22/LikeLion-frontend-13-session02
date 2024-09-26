@@ -24,7 +24,9 @@ export default function App($app) {
         //코드 작성
         $app,
         initialState: {},
+        //'포켓몬 도감'을 클릭하면 "/" 홈으로 돌아갈 수 있도록 함수를 완성하세요.
         handleClick: () => {},
+        //'돋보기 모양'을 누르면 검색 결과를 나타내고, "(기존 url)/?search=searchWord"로 url을 변경하세요.
         handleSearch: () => {},
     });
 
