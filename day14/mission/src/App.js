@@ -15,8 +15,8 @@ export default function App($app) {
     };
 
     this.state = {
-        //default 값 알맞게 수정
-        type: '',
+        //default 값들을 알맞게 수정해주세요.
+        type: '', // 힌트 : 현재 url 주소를 활용하세요.
         pokemonList: [],
         searchWord: getSearchWord(),
         currentPage: window.location.pathname,
@@ -32,11 +32,11 @@ export default function App($app) {
     };
 
     const renderPokemonDetail = () => {
-        // 코드 작성
+        // 코드 새로 작성
     };
 
     const render = async () => {
-        // 코드 작성
+        // 코드 새로 작성
     };
 
     this.setState = (newState) => {
