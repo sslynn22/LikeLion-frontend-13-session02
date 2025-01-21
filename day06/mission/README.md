@@ -32,7 +32,7 @@ fetchUserData();
    우츠동, 우츠보트, 스라크의 정보가 담긴 9개의 객체들이 모인 배열)
 
 ```js
-const API_URL = 'https://pokemon-api-ecru-eta.vercel.app;
+const API_URL = 'https://pokemon-api-ecru-eta.vercel.app';
 ```
 
 > [정답 보기](https://github.com/hbin12212/one-bite2/tree/main/day06/mission/answer/mission2/index.js)
