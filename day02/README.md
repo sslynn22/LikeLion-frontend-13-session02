@@ -13,6 +13,11 @@ mapWithCallback이라는 함수를 만들어보세요.
 
 콜백 함수, map() 메서드를 사용해서 만들어주세요!
 
+console.log문은 다음과 같습니다!
+
+console.log(mapWithCallback([1, 2, 3], double));
+console.log(mapWithCallback([1, 2, 3], addTen));
+
 
 
 ### 미션3. 콜백 함수로 메서지 포맷 바꾸기
