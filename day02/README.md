@@ -16,6 +16,7 @@ mapWithCallback이라는 함수를 만들어보세요.
 console.log문은 다음과 같습니다!
 
 console.log(mapWithCallback([1, 2, 3], double));
+
 console.log(mapWithCallback([1, 2, 3], addTen));
 
 
