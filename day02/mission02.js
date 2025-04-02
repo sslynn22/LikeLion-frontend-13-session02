@@ -6,7 +6,7 @@ function mapWithCallback(array, callback) {
 }
 
 function double(array) {
-    return array.map(x=>x**2);
+    return array.map(x=>x*2);
 }
 
 function addTen(array) {
